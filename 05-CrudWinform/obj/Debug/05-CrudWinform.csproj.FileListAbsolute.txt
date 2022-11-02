@@ -1,0 +1,17 @@
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\bin\Debug\05-CrudWinform.exe.config
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\bin\Debug\05-CrudWinform.exe
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\bin\Debug\05-CrudWinform.pdb
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\bin\Debug\EntityFramework.dll
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\bin\Debug\EntityFramework.SqlServer.dll
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\bin\Debug\EntityFramework.xml
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\bin\Debug\EntityFramework.SqlServer.xml
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\obj\Debug\05-CrudWinform.csproj.AssemblyReference.cache
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\obj\Debug\05-CrudWinform.csproj.SuggestedBindingRedirects.cache
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\obj\Debug\_05_CrudWinform.Form1.resources
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\obj\Debug\_05_CrudWinform.Migrations.initialModel.resources
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\obj\Debug\_05_CrudWinform.Properties.Resources.resources
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\obj\Debug\05-CrudWinform.csproj.GenerateResource.cache
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\obj\Debug\05-CrudWinform.csproj.CoreCompileInputs.cache
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\obj\Debug\05-CrudWinform.csproj.CopyComplete
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\obj\Debug\05-CrudWinform.exe
+D:\Grég\Desktop\FormationEntityFramework-master\05-CrudWinform\obj\Debug\05-CrudWinform.pdb
