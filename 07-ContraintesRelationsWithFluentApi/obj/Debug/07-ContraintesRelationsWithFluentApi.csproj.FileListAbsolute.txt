@@ -1,0 +1,16 @@
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\bin\Debug\07-ContraintesRelationsWithFluentApi.exe.config
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\bin\Debug\07-ContraintesRelationsWithFluentApi.exe
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\bin\Debug\07-ContraintesRelationsWithFluentApi.pdb
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\bin\Debug\EntityFramework.dll
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\bin\Debug\EntityFramework.SqlServer.dll
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\bin\Debug\EntityFramework.xml
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\bin\Debug\EntityFramework.SqlServer.xml
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\obj\Debug\07-ContraintesRelationsWithFluentApi.csproj.AssemblyReference.cache
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\obj\Debug\07-ContraintesRelationsWithFluentApi.csproj.SuggestedBindingRedirects.cache
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\obj\Debug\_07_ContraintesRelationsWithFluentApi.Migrations.initialModel.resources
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\obj\Debug\_07_ContraintesRelationsWithFluentApi.Migrations.cascadeDeleteCourseCover.resources
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\obj\Debug\07-ContraintesRelationsWithFluentApi.csproj.GenerateResource.cache
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\obj\Debug\07-ContraintesRelationsWithFluentApi.csproj.CoreCompileInputs.cache
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\obj\Debug\07-ContraintesRelationsWithFluentApi.csproj.CopyComplete
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\obj\Debug\07-ContraintesRelationsWithFluentApi.exe
+D:\Grég\Desktop\FormationEntityFramework-master\07-ContraintesRelationsWithFluentApi\obj\Debug\07-ContraintesRelationsWithFluentApi.pdb
