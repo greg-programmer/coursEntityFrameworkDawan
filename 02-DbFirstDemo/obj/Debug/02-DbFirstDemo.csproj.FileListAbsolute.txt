@@ -1,0 +1,13 @@
+D:\Grég\Desktop\FormationEntityFramework-master\02-DbFirstDemo\bin\Debug\02-DbFirstDemo.exe.config
+D:\Grég\Desktop\FormationEntityFramework-master\02-DbFirstDemo\bin\Debug\02-DbFirstDemo.exe
+D:\Grég\Desktop\FormationEntityFramework-master\02-DbFirstDemo\bin\Debug\02-DbFirstDemo.pdb
+D:\Grég\Desktop\FormationEntityFramework-master\02-DbFirstDemo\bin\Debug\EntityFramework.dll
+D:\Grég\Desktop\FormationEntityFramework-master\02-DbFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Grég\Desktop\FormationEntityFramework-master\02-DbFirstDemo\bin\Debug\EntityFramework.xml
+D:\Grég\Desktop\FormationEntityFramework-master\02-DbFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Grég\Desktop\FormationEntityFramework-master\02-DbFirstDemo\obj\Debug\02-DbFirstDemo.csproj.AssemblyReference.cache
+D:\Grég\Desktop\FormationEntityFramework-master\02-DbFirstDemo\obj\Debug\02-DbFirstDemo.csproj.SuggestedBindingRedirects.cache
+D:\Grég\Desktop\FormationEntityFramework-master\02-DbFirstDemo\obj\Debug\02-DbFirstDemo.csproj.CoreCompileInputs.cache
+D:\Grég\Desktop\FormationEntityFramework-master\02-DbFirstDemo\obj\Debug\02-DbFirstDemo.csproj.CopyComplete
+D:\Grég\Desktop\FormationEntityFramework-master\02-DbFirstDemo\obj\Debug\02-DbFirstDemo.exe
+D:\Grég\Desktop\FormationEntityFramework-master\02-DbFirstDemo\obj\Debug\02-DbFirstDemo.pdb

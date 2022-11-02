@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="MyContext" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="MyContextContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BlogSet" EntityType="MyContext.Blog" />
+    <EntitySet Name="PostSet" EntityType="MyContext.Post" />
+    <AssociationSet Name="BlogPost" Association="MyContext.BlogPost">
+      <End Role="Blog" EntitySet="BlogSet" />
+      <End Role="Post" EntitySet="PostSet" />
+    </AssociationSet>
+    <EntitySet Name="TestSet" EntityType="MyContext.Test" />
+  </EntityContainer>
+  <EntityType Name="Blog">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nom" Type="String" Nullable="false" />
+    <NavigationProperty Name="Post" Relationship="MyContext.BlogPost" FromRole="Blog" ToRole="Post" />
+  </EntityType>
+  <EntityType Name="Post">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Content" Type="String" Nullable="false" />
+    <NavigationProperty Name="Blog" Relationship="MyContext.BlogPost" FromRole="Post" ToRole="Blog" />
+    <Property Name="BlogId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="BlogPost">
+    <End Type="MyContext.Blog" Role="Blog" Multiplicity="1" />
+    <End Type="MyContext.Post" Role="Post" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Blog">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Post">
+        <PropertyRef Name="BlogId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Test">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+</Schema>
