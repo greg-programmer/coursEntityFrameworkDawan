@@ -1,0 +1,8 @@
+D:\Grég\Desktop\FormationEntityFramework-master\01-Rappels\bin\Debug\01-Rappels.exe.config
+D:\Grég\Desktop\FormationEntityFramework-master\01-Rappels\bin\Debug\01-Rappels.exe
+D:\Grég\Desktop\FormationEntityFramework-master\01-Rappels\bin\Debug\01-Rappels.pdb
+D:\Grég\Desktop\FormationEntityFramework-master\01-Rappels\obj\Debug\01-Rappels.csproj.AssemblyReference.cache
+D:\Grég\Desktop\FormationEntityFramework-master\01-Rappels\obj\Debug\01-Rappels.csproj.SuggestedBindingRedirects.cache
+D:\Grég\Desktop\FormationEntityFramework-master\01-Rappels\obj\Debug\01-Rappels.csproj.CoreCompileInputs.cache
+D:\Grég\Desktop\FormationEntityFramework-master\01-Rappels\obj\Debug\01-Rappels.exe
+D:\Grég\Desktop\FormationEntityFramework-master\01-Rappels\obj\Debug\01-Rappels.pdb
